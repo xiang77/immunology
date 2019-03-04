@@ -34,3 +34,4 @@
   * [TCGA甲基化数据分析](http://www.dzbioinformatics.com/2018/08/12/tcga%E7%94%B2%E5%9F%BA%E5%8C%96%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/)
   * [WGCNA2](https://www.jianshu.com/p/76fef6360ffe)
   * [Kegg Go软件汇总](http://www.360doc.com/content/17/0707/14/8224347_669572036.shtml)
+  * [TCGA miRNA liver cancer](https://www.jianshu.com/p/e86340d4ea55)
