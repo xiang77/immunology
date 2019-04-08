@@ -37,3 +37,6 @@
   * [Kegg Go软件汇总](http://www.360doc.com/content/17/0707/14/8224347_669572036.shtml)
   * [TCGA miRNA liver cancer](https://www.jianshu.com/p/e86340d4ea55)
   * [forest plot](https://www.jianshu.com/p/59734bab9fc2)
+  
+* Patent search
+  * [US patent](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2010104949&tab=PCTDOCUMENTS&maxRec=1000)
